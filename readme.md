@@ -152,7 +152,7 @@ The existing roles are listed below with the corresponding permissions
 * ADMIN       -> UserController
 
 There is an existing user with the username `admin` and password `admin` that has access to all APIs.
- In order to add a new user, please use the following API:
+ In order to add a new user, please use the following API :
 ```
 POST /api/users
 {
